@@ -9,7 +9,7 @@ class Parrot:
 blu = Parrot ("Blu", 10)
 woo = Parrot ("Woo", 15)
 
-print(f"Blu is a {blu.species}")
+print(f"Blu is a {blu.species}") 
 print(f"Woo is a {woo.species}")
 
 print()
